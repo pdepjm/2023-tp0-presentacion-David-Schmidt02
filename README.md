@@ -1,11 +1,18 @@
-﻿# 2023-tp0-presentacion-David-Schmidt02
+# 2023-tp0-presentacion-David-Schmidt02
 ## Presentación
-### David Schmidt
-<p>Hola, mi nombre es David Schmidt, tengo 20 años, mi número de legajo es 208.145-3, y estoy cursando por <strong>primera vez</strong> PdeP.</p>
-<p>Me gusta:</p>
+### David Schmidt K2104
+<p>Hola, mi nombre es David Schmidt:</p>
 <ol>
+  <li>Tengo 20 años</li>  
+  <li>Mi legajo es 208.145-3</li>   
+  <li>Estoy cursando por <strong>primera vez</strong> PdeP.</li>
+</ol>
+
+<p>Me gusta:</p>
+<ul>
   <li>Los brownies:cake:</li>  
   <li>Jugar Valorant:gun:</li>   
   <li>Dormir:zzz:</li>
   <li>Estudiar:page_with_curl:</li>
-</ol>
+</ul>
+
