@@ -15,4 +15,5 @@
   <li>Dormir:zzz:</li>
   <li>Estudiar:page_with_curl:</li>
 </ul>
-
+<image src="/img1.jpg" alt="yo">
+<p>El espejo estaba un poco sucio</p>
